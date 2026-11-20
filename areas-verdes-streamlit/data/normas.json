@@ -1,0 +1,241 @@
+[
+  {
+    "id": "ley-31199",
+    "temas": [
+      "espacios",
+      "municipal"
+    ],
+    "tipo": "Ley",
+    "numero": "31199",
+    "titulo": "Ley de Gestión y Protección de los Espacios Públicos",
+    "resumen": "Establece el marco para gestionar y proteger los espacios públicos (plazas, parques, áreas verdes y similares). Los define como espacios urbanos destinados a necesidades colectivas como el descanso, la recreación y el intercambio social, y los declara inalienables, inembargables e imprescriptibles. Su reglamento es el DS 001-2023-VIVIENDA.",
+    "fecha": "2021",
+    "entidad": "Congreso de la República / MVCS",
+    "estado": "Vigente",
+    "verificado": true,
+    "url": "https://www.congreso.gob.pe/Docs/DGP/DIDP/files/ley_31199.pdf",
+    "palabras": [
+      "espacios publicos",
+      "parques",
+      "plazas",
+      "areas verdes",
+      "intangibilidad",
+      "desafectacion",
+      "inventario"
+    ]
+  },
+  {
+    "id": "ds-001-2023-vivienda",
+    "temas": [
+      "espacios",
+      "municipal"
+    ],
+    "tipo": "Decreto Supremo",
+    "numero": "001-2023-VIVIENDA",
+    "titulo": "Decreto Supremo que aprueba el Reglamento de la Ley N° 31199, Ley de Gestión y Protección de los Espacios Públicos",
+    "resumen": "Reglamenta la Ley 31199. Declara intangibles las áreas verdes (no pueden reducirse ni destinarse a otros fines), limita la participación privada a un máximo del 15 % del área del espacio público, exige a las municipalidades planes e inventario de espacios públicos y regula la desafectación excepcional, que debe compensarse con un espacio público equivalente. Dispone además que el MVCS apruebe una guía para el diseño, protección, conservación y manejo de áreas verdes y arbolado urbano.",
+    "fecha": "2023-03-03",
+    "entidad": "MVCS",
+    "estado": "Vigente",
+    "verificado": true,
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2156863-1",
+    "palabras": [
+      "reglamento",
+      "areas verdes",
+      "arbolado urbano",
+      "intangible",
+      "fiscalizacion",
+      "inventario",
+      "plan de espacios publicos",
+      "privatizacion"
+    ]
+  },
+  {
+    "id": "ley-31313",
+    "temas": [
+      "planificacion",
+      "espacios"
+    ],
+    "tipo": "Ley",
+    "numero": "31313",
+    "titulo": "Ley de Desarrollo Urbano Sostenible",
+    "resumen": "Establece los principios, lineamientos e instrumentos para la planificación y gestión del desarrollo urbano sostenible, incluyendo el ordenamiento de los espacios urbanos y su sistema de planificación territorial.",
+    "fecha": "2021",
+    "entidad": "Congreso de la República / MVCS",
+    "estado": "Vigente",
+    "verificado": true,
+    "url": "https://msi.gob.pe/portal/wp-content/uploads/2022/07/1-Ley-N%C2%B0-31313-Fuente-Sistema-Peruano-de-Informacion-Juridica.pdf",
+    "palabras": [
+      "desarrollo urbano",
+      "planificacion urbana",
+      "ciudades",
+      "ordenamiento territorial",
+      "sostenible",
+      "luds"
+    ]
+  },
+  {
+    "id": "ds-012-2022-vivienda",
+    "temas": [
+      "planificacion"
+    ],
+    "tipo": "Decreto Supremo",
+    "numero": "012-2022-VIVIENDA",
+    "titulo": "Decreto Supremo que aprueba el Reglamento de Acondicionamiento Territorial y Planificación Urbana del Desarrollo Urbano Sostenible",
+    "resumen": "Reglamenta la parte de acondicionamiento territorial y planificación urbana de la Ley 31313: instrumentos de planificación (planes de desarrollo urbano, esquemas de ordenamiento) y su articulación con los espacios públicos y la estructura urbana de las ciudades.",
+    "fecha": "2022-10",
+    "entidad": "MVCS",
+    "estado": "Vigente",
+    "verificado": true,
+    "url": "https://busquedas.elperuano.pe/normaslegales/decreto-supremo-que-aprueba-el-reglamento-de-acondicionamien-decreto-supremo-n-012-2022-vivienda-2112560-6/",
+    "palabras": [
+      "reglamento",
+      "plan de desarrollo urbano",
+      "acondicionamiento territorial",
+      "zonificacion",
+      "planificacion"
+    ]
+  },
+  {
+    "id": "guia-parques-locales-accesibles-2023",
+    "temas": [
+      "diseno",
+      "espacios"
+    ],
+    "tipo": "Guía técnica",
+    "numero": "Guía para el diseño de parques locales accesibles (2023)",
+    "titulo": "Guía para el diseño de parques locales accesibles",
+    "resumen": "Publicada en 2023 por el MVCS a través de su Dirección General de Accesibilidad y Desarrollo Tecnológico. Orienta el diseño, acondicionamiento y rehabilitación de parques locales según criterios mínimos de accesibilidad universal: entorno, accesos, circulaciones, mobiliario y áreas de disfrute.",
+    "fecha": "2023",
+    "entidad": "MVCS",
+    "estado": "Vigente",
+    "verificado": true,
+    "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/guia-para-el-diseno-de-parques-locales-accesibles-2023.pdf",
+    "palabras": [
+      "accesibilidad",
+      "parques",
+      "diseno universal",
+      "mobiliario urbano",
+      "discapacidad",
+      "juegos infantiles"
+    ]
+  },
+  {
+    "id": "ley-29090",
+    "temas": [
+      "diseno",
+      "planificacion"
+    ],
+    "tipo": "Ley",
+    "numero": "29090",
+    "titulo": "Ley de Regulación de Habilitaciones Urbanas y de Edificaciones",
+    "resumen": "Regula los procedimientos para obtener licencias de habilitación urbana y de edificación, las cuales exigen cumplir los aportes reglamentarios, entre ellos los destinados a recreación pública (parques). Ha sido modificada varias veces.",
+    "fecha": "2007-09-25",
+    "entidad": "Congreso de la República / MVCS",
+    "estado": "Vigente",
+    "verificado": false,
+    "url": "https://www.gob.pe/busquedas?term=Ley%2029090",
+    "palabras": [
+      "habilitacion urbana",
+      "licencia de edificacion",
+      "aportes reglamentarios",
+      "recreacion publica",
+      "lotizacion"
+    ]
+  },
+  {
+    "id": "ds-029-2019-vivienda",
+    "temas": [
+      "diseno"
+    ],
+    "tipo": "Decreto Supremo",
+    "numero": "029-2019-VIVIENDA",
+    "titulo": "Reglamento de Licencias de Habilitación Urbana y Licencias de Edificación",
+    "resumen": "Reglamenta la Ley 29090: procedimientos y requisitos de las licencias, incluido el cumplimiento de los aportes para recreación pública en las habilitaciones urbanas.",
+    "fecha": "2019-11-06",
+    "entidad": "MVCS",
+    "estado": "Vigente",
+    "verificado": false,
+    "url": "https://www.gob.pe/busquedas?term=Decreto%20Supremo%20029-2019-VIVIENDA",
+    "palabras": [
+      "licencias",
+      "habilitacion urbana",
+      "aportes",
+      "recreacion publica",
+      "reglamento"
+    ]
+  },
+  {
+    "id": "ds-011-2006-vivienda",
+    "temas": [
+      "diseno"
+    ],
+    "tipo": "Decreto Supremo",
+    "numero": "011-2006-VIVIENDA",
+    "titulo": "Reglamento Nacional de Edificaciones (incluye norma GH.020 Componentes de Diseño Urbano)",
+    "resumen": "Aprueba el RNE, cuya norma GH.020 define los componentes de diseño urbano, entre ellos los parques y áreas de recreación y los aportes reglamentarios. El RNE ha sido modificado reiteradamente, incluso en 2026 (por ejemplo, RM 278-2026-VIVIENDA): confirma el texto vigente de la norma que necesites.",
+    "fecha": "2006-05-08",
+    "entidad": "MVCS",
+    "estado": "Vigente",
+    "verificado": false,
+    "url": "https://www.gob.pe/busquedas?term=Reglamento%20Nacional%20de%20Edificaciones%20GH.020",
+    "palabras": [
+      "rne",
+      "gh.020",
+      "diseno urbano",
+      "parques",
+      "aportes",
+      "recreacion",
+      "edificaciones"
+    ]
+  },
+  {
+    "id": "ley-27972",
+    "temas": [
+      "municipal",
+      "espacios"
+    ],
+    "tipo": "Ley",
+    "numero": "27972",
+    "titulo": "Ley Orgánica de Municipalidades",
+    "resumen": "Define las competencias municipales, incluyendo la administración de parques, jardines y áreas verdes, el ornato y la salud ambiental dentro de su circunscripción, así como la potestad de emitir ordenanzas y sancionar infracciones.",
+    "fecha": "2003-05-27",
+    "entidad": "Congreso de la República",
+    "estado": "Vigente",
+    "verificado": false,
+    "url": "https://www.gob.pe/busquedas?term=Ley%2027972",
+    "palabras": [
+      "municipalidad",
+      "ornato",
+      "parques y jardines",
+      "ordenanza",
+      "competencias",
+      "sanciones"
+    ]
+  },
+  {
+    "id": "ord-14-2023-mdlp",
+    "temas": [
+      "municipal",
+      "espacios"
+    ],
+    "tipo": "Ordenanza municipal",
+    "numero": "14-2023-MDLP",
+    "titulo": "Ordenanza para la conservación y gestión de áreas verdes públicas del distrito de La Perla",
+    "resumen": "Ejemplo de ordenanza distrital que regula la conservación y gestión de las áreas verdes públicas de La Perla (Callao). Cada municipalidad tiene su propia ordenanza: revisa la de tu distrito o provincia.",
+    "fecha": "2023",
+    "entidad": "Municipalidad Distrital de La Perla",
+    "estado": "Vigente",
+    "verificado": true,
+    "url": "https://vlex.com.pe/vid/ordenanza-n-14-2023-943173186",
+    "palabras": [
+      "ordenanza",
+      "areas verdes publicas",
+      "la perla",
+      "callao",
+      "conservacion",
+      "riego",
+      "poda"
+    ]
+  }
+]
